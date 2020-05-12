@@ -1,0 +1,16 @@
+C:\Users\bedirhan\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\Stok Takip Programı.csprojAssemblyReference.cache
+C:\Users\bedirhan\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\Stok_Takip_Programı.frmMüşteriEkle.resources
+C:\Users\bedirhan\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\Stok_Takip_Programı.frmSatis.resources
+C:\Users\bedirhan\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\Stok_Takip_Programı.Properties.Resources.resources
+C:\Users\bedirhan\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\Stok Takip Programı.csproj.GenerateResource.cache
+C:\Users\bedirhan\source\repos\Stok Takip Programı\Stok Takip Programı\bin\Debug\Stok Takip Programı.exe.config
+C:\Users\bedirhan\source\repos\Stok Takip Programı\Stok Takip Programı\bin\Debug\Stok Takip Programı.exe
+C:\Users\bedirhan\source\repos\Stok Takip Programı\Stok Takip Programı\bin\Debug\Stok Takip Programı.pdb
+C:\Users\bedirhan\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\Stok Takip Programı.exe
+C:\Users\bedirhan\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\Stok Takip Programı.pdb
+C:\Users\bedirhan\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\Stok_Takip_Programı.frmMüşteriListele.resources
+C:\Users\bedirhan\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\Stok_Takip_Programı.frmKategori.resources
+C:\Users\bedirhan\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\Stok_Takip_Programı.frmMarka.resources
+C:\Users\bedirhan\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\Stok_Takip_Programı.frmÜrünEkle.resources
+C:\Users\bedirhan\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\Stok_Takip_Programı.frmÜrünListele.resources
+C:\Users\bedirhan\source\repos\Stok Takip Programı\Stok Takip Programı\obj\Debug\Stok_Takip_Programı.frmSatışListele.resources
